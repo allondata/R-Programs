@@ -1,0 +1,16 @@
+Basic dataypes - character
+
+character hold character values like 
+
+Example:
+
+> x = "hello"
+> class(x)
+[1] "character"
+
+
+> y = 'a'
+> y
+[1] "a"
+> class(y)
+[1] "character"
