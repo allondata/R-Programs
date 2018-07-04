@@ -1,0 +1,15 @@
+> ?reserved
+
+
+
+It will open a page with all the list 
+
+
+Extract of the page:
+
+Description
+The reserved words in R's parser are
+
+if else repeat while function for in next break
+
+TRUE FALSE NULL Inf NaN NA NA_integer_ NA_real_ NA_complex_ NA_character_
