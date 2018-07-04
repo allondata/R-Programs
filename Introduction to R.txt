@@ -1,0 +1,24 @@
+Introduction
+
+
+R is a programming language.
+Used in statistical computing, data analytics and scientific research.
+Easy to retrieve, clean, analyze, visualize and present data.
+Easy to use syntax.
+R is open source and free.
+Created by Ross Ihaka and Robert Gentleman @University of Auckland, NZ.
+R is interpreted.
+
+
+
+Check the latest version, when you download.
+
+Download R:
+
+https://cran.r-project.org/bin/windows/base/
+
+Dowload as per the OS and follow the instructions.
+
+
+
+Test the installation by opening the RGui
