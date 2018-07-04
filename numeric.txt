@@ -1,0 +1,20 @@
+Basic dataypes - numeric
+
+Numeric hold numbers like 
+  integers - 10, 20, 30 
+  floating - 11.2, 33.4, 55.6
+
+
+Example:
+
+> num = 10
+> class(num)
+[1] "numeric"
+
+
+> y = 12.3
+> class(y)
+[1] "numeric"
+
+
+
